@@ -25,9 +25,21 @@
 ## 👨‍💻 About Me
 
 ```yaml
-    
-I am currently in my third year at the University Politehnica Timișoara, studying in the CTI-RO program within the Faculty of Automatică și Calculatoare. In the last few years, I’ve become increasingly interested in exploring new areas of technology and understanding how both software and hardware evolve. I enjoy getting involved in projects that challenge my way of thinking and give me the chance to experiment with unfamiliar ideas.
-I’m especially motivated by learning new things that involve working with hardware components and developing applications that encourage creativity. I like using tools and technologies that allow me to imagine, build, and bring concepts to life—from designing small systems to creating apps with unique functionality. My goal is to continue expanding my knowledge through hands-on experiences and use my imagination to create impactful solutions.
+name: Albert Rosca
+university: University Politehnica Timișoara
+program: CTI-RO, Faculty of Automatică și Calculatoare
+year: 3rd Year
+
+interests:
+  - Exploring new areas of technology
+  - Understanding software and hardware evolution
+  - Working with hardware components
+  - Developing creative applications
+  - Designing systems and apps with unique functionality
+
+goals:
+  - Expand knowledge through hands-on experiences
+  - Create impactful solutions using imagination and technology
 ```
 
 ---
@@ -35,17 +47,18 @@ I’m especially motivated by learning new things that involve working with hard
 ## 🚀 Tech Stack & Tools
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/EasyEDA-0066CC?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIyNCIgY3k9IjI0IiByPSIyMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="easyeda" width="45" height="45"/>
 </p>
 
 ---
