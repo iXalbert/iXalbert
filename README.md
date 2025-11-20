@@ -74,13 +74,12 @@ goals:
 </p>
 
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iXalbert&hide_total_contributions=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iXalbert&hide_total_contributions=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🐍/🟡 Contribution Snake/PAC-MAC
+## 🟡 Contribution PAC-MAC
 
 
 
