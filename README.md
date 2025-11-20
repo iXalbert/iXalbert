@@ -79,7 +79,7 @@ goals:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍/🟡 Contribution Snake/PAC-MAC
 
 ![Snake animation](https://github.com/iXalbert/iXalbert/blob/output/github-contribution-grid-snake.svg)
 
