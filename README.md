@@ -74,7 +74,7 @@ goals:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iXalbert&theme=radical" alt="GitHub Streak"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iXalbert&hide_total_contributions=true" alt="GitHub Streak" />
 </p>
 
@@ -82,7 +82,7 @@ goals:
 
 ## 🐍/🟡 Contribution Snake/PAC-MAC
 
-![Snake animation](https://github.com/iXalbert/iXalbert/blob/output/github-contribution-grid-snake.svg)
+
 
 <br clear="both">
 
