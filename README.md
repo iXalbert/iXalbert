@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/rosca-albert-68bba3336/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.instagram.com/ixalbert/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>   
+  </a>
   <a href="mailto:roscaalbert123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -77,17 +80,17 @@ goals:
 
 ---
 
-## 👾 Pac-Man Eating My Contributions
+## 🟡 Contribution PAC-MAC
 
-![Pac-Man](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<br clear="both">
 
-<p align="center">
-  <img src="https://github.com/iXalbert/iXalbert/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iXalbert/iXalbert/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iXalbert/iXalbert/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iXalbert/iXalbert/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/ocean.gif" width="100%" alt="Contribution Graph"/>
-</p>
+###
 
 ---
 
