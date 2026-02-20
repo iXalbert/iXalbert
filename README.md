@@ -68,29 +68,37 @@ goals:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iXalbert&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iXalbert&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iXalbert&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iXalbert&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iXalbert&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iXalbert&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
-## 🟡 Contribution PAC-MAC
+## 🐍 Snake Eating My Contributions
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iXalbert/iXalbert/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iXalbert/iXalbert/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iXalbert/iXalbert/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🟡 Pac-Man Eating My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iXalbert/iXalbert/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iXalbert/iXalbert/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iXalbert/iXalbert/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ---
 
